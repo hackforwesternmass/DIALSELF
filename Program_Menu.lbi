@@ -1,0 +1,29 @@
+<div id="menu">
+<h4><a href="../programs.html">PROGRAMS AND SERVICES</a></h4>
+<h4>Youth Services</h4>
+	<ul>
+  	 <li><a href="../teenline.html">TeenLine</a>
+  	   <ul>
+  	     <li><a href="safeplace.html">Safe Place</a></li>
+       </ul>
+  	 </li>
+  	 <li><a href="../stepprog.html">Step Program</a></li>
+  	 <li><a href="../northquabbin.html">North Quabbin Office</a></li>
+	</ul>
+<h4>Community Service Partnerships</h4>
+    <ul>
+      <li><a href="../act.html">ACT Volunteer Center</a></li>
+      <li><a href="../americorps.html">YouthServe AmeriCorps</a></li>
+      <li><a href="../rise.html">RISE</a></li>
+      <li><a href="../youthservroundtable.html">Youth Services Roundtable</a></li>
+    </ul>
+<div id="googlesearch" align="center">
+        <form action="http://www.google.com/cse" id="cse-search-box">
+        <input type="hidden" name="cx" value="003382292228479385299:43hrz4psfck" />
+        <input type="hidden" name="cof" value="FORID:11" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input name="q" type="text" size="12" />
+        <input type="submit" name="sa" value="Search" />
+        </form>
+  </div>
+</div>

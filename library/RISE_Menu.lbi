@@ -1,0 +1,31 @@
+<div id="menu">
+<h4><a href="../programs.html">PROGRAMS AND SERVICES</a></h4>
+<h4>Youth Services</h4>
+	<ul>
+  	 <li><a href="../teenline.html">TeenLine</a></li>
+  	 <li><a href="../stepprog.html">Step Program</a></li>
+  	 <li><a href="../northquabbin.html">North Quabbin Office</a></li>
+	 <li><a href="../teenhousing.html">Teen Housing</a> </li>
+	</ul>
+<h4>Community Service Partnerships</h4>
+    <ul>
+      <li><a href="../act.html">ACT Volunteer Center</a></li>
+      <li><a href="../americorps.html">YouthServe AmeriCorps</a></li>
+      <li><a href="../rise.html">RISE</a>
+        <ul>
+          <li><a href="../rise-gms.html">Greenfield Middle School</a></li>
+          <li><a href="../rise-gfms-tfhs.html">Great Falls Middle School</a></li>
+          <li><a href="../rise-gfms-tfhs.html">Turners Falls High School</a></li>
+          <li><a href="../rise-arms.html">Athol-Roylston Middle School</a></li>
+          <li><a href="../rise-svahs.html">SmithVocational & Agricultural High School</a></li>
+        </ul>
+      </li>
+      <li><a href="../youthservroundtable.html">Youth Services Roundtable</a></li>
+  </ul>
+<div>
+  <div align="center">
+    <p><img src="../images/AC.gif" alt="AmeriCorps logo" width="75" height="75"> </p>
+    <p><img src="../images/MSA.jpg" alt="Massachusetts Service Alliance logo" width="65" height="75"></p>
+  </div>
+</div>
+</div>

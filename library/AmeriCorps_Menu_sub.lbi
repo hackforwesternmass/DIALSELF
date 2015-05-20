@@ -1,0 +1,27 @@
+<div id="menu">
+<h4><a href="../programs.html">PROGRAMS AND SERVICES</a></h4>
+<h4>Youth Services</h4>
+	<ul>
+  	 <li><a href="www.dialself.org/teenline.html">TeenLine</a></li>
+  	 <li><a href="www.dialself.org/stepprog.html">Step Program</a></li>
+  	 <li><a href="www.dialself.org/northquabbin.html">North Quabbin Office</a></li>
+	 <li><a href="www.dialself.org/teenhousing.html">Teen Housing</a> </li>
+	</ul>
+<h4>Community Service Partnerships</h4>
+    <ul>
+      <li><a href="www.dialself.org/act.html">ACT Volunteer Center</a></li>
+      <li><a href="www.dialself.org/americorps.html">RISE  AmeriCorps Program</a>
+        <ul>
+          <li><a href="www.dialself.org/ac-member.html">Member Resources</a></li>
+          <li><a href="www.dialself.org/ac-site.html">Site Partner Resources </a> </li>
+        </ul>
+      </li>
+      <li><a href="www.dialself.org/youthservroundtable.html">Youth Services Roundtable</a></li>
+  </ul>
+<div>
+  <div align="center">
+    <p><img src="../images/AC.gif" alt="AmeriCorps logo" width="75" height="75"> </p>
+    <p><img src="../images/MSA.jpg" alt="Massachusetts Service Alliance logo" width="65" height="75"></p>
+  </div>
+</div>
+</div>

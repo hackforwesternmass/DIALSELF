@@ -1,0 +1,30 @@
+<div id="menu">
+<h4><a href="../index.html">HOME</a></h4>
+<h4><a href="../programs.html">PROGRAMS AND SERVICES</a></h4>
+<h4>Youth Services</h4>
+	<ul>
+  	 <li><a href="../teenline.html">TeenLine</a></li>
+  	 <li><a href="../stepprog.html">Step Program</a></li>
+  	 <li><a href="../northquabbin.html">North Quabbin Office</a></li>
+	 <li><a href="../teenhousing.html">Teen Housing </a></li>
+	</ul>
+<h4>Community Service Partnerships</h4>
+    <ul>
+      <li><a href="../act.html">ACT Community Service Center</a></li>
+      <li><a href="../americorps.html">YouthServe AmeriCorps</a></li>
+      <li><a href="../rise.html">RISE</a></li>
+      <li><a href="../youthservroundtable.html">Youth Services Roundtable</a></li>
+  </ul>
+<h4><a href="../history.html">ABOUT THE AGENCY</a></h4>
+    <ul>
+      <li><a href="../history.html">History and Vision</a></li>
+      <li><a href="../news.html">News</a></li>
+      <li><a href="../facilities.html">Facilities/ Locations</a></li>
+      <li><a href="../staffboard.html">Staff and Board</a></li>
+      <li><a href="../events.html">Events</a></li>
+      <li><a href="../jobopportunities.html">Job Opportunities</a> </li>
+      <li><a href="../support.html">Support</a></li>
+    </ul>
+<h4><a href="../contact.html">CONTACT US</a></h4>
+
+</div>

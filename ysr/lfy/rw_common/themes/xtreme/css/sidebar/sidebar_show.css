@@ -1,0 +1,4 @@
+/* display the sidebar container as a block so it is displayed on screen */
+#sidebarContainer {
+	display: block;
+}

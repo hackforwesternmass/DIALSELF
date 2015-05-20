@@ -1,0 +1,17 @@
+<div id="menu">
+<h4><a href="../programs.html">PROGRAMS AND SERVICES</a></h4>
+<h4>Youth Services</h4>
+	<ul>
+  	 <li><a href="../teenline.html">TeenLine</a>
+  	 <li><a href="../safeplace.html">Safe Place</a></li>
+  	 <li><a href="../stepprog.html">Step Program</a></li>
+  	 <li><a href="../northquabbin.html">North Quabbin Office</a></li>
+	 <li><a href="../teenhousing.html">TeenHousing </a></li>
+	</ul>
+<h4>Community Service Partnerships</h4>
+    <ul>
+      <li><a href="../act.html">ACT Volunteer Center</a></li>
+      <li><a href="../americorps.html">RISE  AmeriCorps Program</a></li>
+      <li><a href="../youthservroundtable.html">Youth Services Roundtable</a></li>
+  </ul>
+</div>

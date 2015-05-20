@@ -1,0 +1,4 @@
+/* change the pictures to the snowboarding images */
+#pictures {
+	background: url(../../images/snow_pics.jpg) no-repeat;
+}

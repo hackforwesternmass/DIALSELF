@@ -1,0 +1,21 @@
+<div id="menu">
+<h4><a href="../history.html">ABOUT THE AGENCY</a></h4>
+<ul>
+    <li><a href="../history.html">History and Vision</a></li>
+      <li><a href="../news.html">News</a></li>
+      <li><a href="../facilities.html">Facilities/ Locations</a></li>
+      <li><a href="../staffboard.html">Board of Directors</a></li>
+      <li><a href="../events.html">Events</a></li>
+      <li><a href="../jobopportunities.html">Job Opportunities </a></li>
+      <li><a href="../support.html">Support</a></li>
+  </ul>
+<div id="googlesearch" align="center">
+        <form action="http://www.google.com/cse" id="cse-search-box">
+        <input type="hidden" name="cx" value="003382292228479385299:43hrz4psfck" />
+        <input type="hidden" name="cof" value="FORID:11" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input name="q" type="text" size="12" />
+        <input type="submit" name="sa" value="Search" />
+        </form>
+  </div>
+</div>

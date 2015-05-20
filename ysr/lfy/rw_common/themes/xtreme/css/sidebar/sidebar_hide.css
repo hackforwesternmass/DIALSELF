@@ -1,0 +1,4 @@
+/* hide the sidebar container by setting display to none */
+#sidebarContainer {
+	display: none;
+}
