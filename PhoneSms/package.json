@@ -1,0 +1,22 @@
+{
+  "name": "DialSelfPhoneTree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "hogan-express": "^0.5.2",
+    "lodash": "^3.9.3",
+    "moment": "^2.10.3",
+    "moment-timezone": "^0.4.0",
+    "q": "^1.4.1",
+    "request-promise": "^0.4.2",
+    "striptags": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
