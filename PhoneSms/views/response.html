@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice">{{message}}</Say>
+  <Pause />
+  <Gather action="/dialself/welcome" method="GET" timeout="5" numDigits="1">
+    <Say voice="alice">To return to the main menu, press 1.</Say>
+  </Gather>
+  <Say voice="alice">Good Bye!</Say>
+  <Hangup/>
+</Response>

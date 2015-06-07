@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice">{{preamble}} Please choose from the following options.</Say>
+  <Gather action="/dialself/query" method="GET" numDigits="1">
+    <Say voice="alice">For closings and other alerts, press 1.</Say>
+    <Say voice="alice">For food pantry inventory, press 2.</Say>
+    <Say voice="alice">For information about when and where our street outreach workers will be, press 3.</Say>
+    <Say voice="alice">For life skills or events, press 4.</Say>
+  </Gather>
+</Response>
