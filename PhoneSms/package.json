@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "cheerio": "^0.19.0",
     "express": "^4.12.4",
     "hogan-express": "^0.5.2",
     "lodash": "^3.9.3",

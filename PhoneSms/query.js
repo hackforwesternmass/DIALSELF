@@ -1,6 +1,7 @@
 var rp = require('request-promise'),
     moment = require('moment-timezone'),
     Q = require('q'),
+    cheerio = require('cheerio'),
     _ = require('lodash');
 
 module.exports = {
@@ -41,17 +42,14 @@ module.exports = {
       }
     });
   },
-  outreach: function() {
-    return rp('http://').then(JSON.parse).then(function(json) {
-
-    });
-  },
   events: function() {
-    return rp('http://104.236.218.72/node.json?type=event').then(JSON.parse).then(function(json) {
-      return 'The next 5 upcoming events are ';
+    return rp('http://104.236.218.72/events').then(function(body) {
+      var $ = cheerio.load(body);
+      var message = $('.view-content').html();
+      return 'The upcoming events are: ' + message;
     });
   },
   bed: function() {
-    return Q('Please call .');
+    return Q('Please call 413-834-7410.');
   }
 };

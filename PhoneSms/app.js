@@ -36,9 +36,6 @@ app.get('/dialself/sms', function(req, res) {
     case 'pantry':
       promise = query.inventory();
       break;
-    case 'outreach':
-      promise = query.outreach();
-      break;
     case 'events':
       promise = query.events();
       break;
@@ -49,7 +46,7 @@ app.get('/dialself/sms', function(req, res) {
     default:
       res.header('Content-Type','text/xml');
       return res.render('sms', {
-        message: 'Text ALERT, INVENTORY, OUTREACH, EVENTS, or HOUSING for more information from DIAL/SELF. Text MENU to see this list again.'
+        message: 'Text ALERT, INVENTORY, EVENTS, or HOUSING for more information from DIAL/SELF. Text MENU to see this list again.'
       });
   }
 
@@ -72,9 +69,6 @@ app.get('/dialself/query', function(req, res) {
       promise = query.inventory();
       break;
     case '3':
-      promise = query.outreach();
-      break;
-    case '4':
       promise = query.events();
       break;
     default:
@@ -85,6 +79,7 @@ app.get('/dialself/query', function(req, res) {
   }
 
   promise.then(function(msg) {
+    res.header('Content-Type','text/xml');
     res.render('response', {
       message: striptags(msg)
     });
